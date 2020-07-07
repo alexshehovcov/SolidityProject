@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13c9678b-8077-4ca9-a901-0ee3ac1becd2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/build/contracts/Context.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/contracts/Context.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/contracts/ConvertLib.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/contracts/ConvertLib.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/contracts/ERC20.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/contracts/ERC20.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/contracts/IERC20.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/contracts/IERC20.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/contracts/Market.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/contracts/Market.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/contracts/MetaCoin.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/contracts/MetaCoin.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/contracts/Migrations.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/contracts/Migrations.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/contracts/Project.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/contracts/Project.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/contracts/SafeMath.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/contracts/SafeMath.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/ConvertLib.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/Market.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/Market.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/MetaCoin.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/Project.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/Project.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/2_deploy_contracts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/TestMetaCoin.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/metacoin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/project.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/project.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/truffle-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/truffle-config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dxiDL3Eyi0ajo28guBk76zSHLg" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13c9678b-8077-4ca9-a901-0ee3ac1becd2" name="Default Changelist" comment="" />
+      <created>1593373023177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593373023177</updated>
+      <workItem from="1593373026015" duration="82000" />
+      <workItem from="1593373149013" duration="78000" />
+      <workItem from="1593411853893" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="236" y="89" key="SettingsEditor" timestamp="1593373224434">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="236" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1593373224434" />
+  </component>
+</project>
